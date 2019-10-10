@@ -1,0 +1,13 @@
+create a simple calculator that can run infinitly
+  -use while loops
+  -use if statements
+  -make at least 4 operations
+  
+Input:
+  First Number: 3
+  Operation: *
+  Second Number: 2
+Output:
+2*3
+6
+  
