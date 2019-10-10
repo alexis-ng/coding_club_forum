@@ -4,3 +4,4 @@
 **Forum will refresh each week.**
 **Do not delete other members responses or question.**
 **Use the branches option to choose the discussion level for each forum.**
+**If you do not follow the rules; you will be removed.**
