@@ -1,0 +1,5 @@
+1. Create a mad libs using user input and lists
+
+2. Write a program that prints the next 20 leap years.
+
+3. Write function that translates a text to Pig Latin and back. English is translated to Pig Latin by taking the first letter of every word, moving it to the end of the word and adding ‘ay’.
